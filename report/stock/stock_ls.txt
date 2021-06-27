@@ -1,0 +1,4 @@
+Beta：1.3263
+Alpha：0.0012
+Risk-Free Rate：0.0072
+CAPM Value：21.79%

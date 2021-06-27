@@ -1,0 +1,1 @@
+Crawl specific word news for keywords, and automatically generate a summary through a summary module to output a summary that can adjust the amount of articles.

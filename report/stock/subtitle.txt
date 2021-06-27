@@ -1,0 +1,1 @@
+Draw the stock price trend graph of each stock price and use the yield of the U.S. 1-year Treasury bond as the risk-free rate of return to calculate the expected one-year rate of return for CAPM.
